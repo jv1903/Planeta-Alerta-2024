@@ -746,6 +746,20 @@ main .so2 .right2 {
   overflow: hidden;
   margin-left: 0px;
 }
+
+  /*FOTOS SLIDES!!*/
+
+  #FOTO1{
+    height: 245px;
+  }
+  #FOTO2{
+    height: 245px;
+  }
+  #FOTO4{
+    height: 245px;
+  }
+  
+
 }
 /*footer*/
 
@@ -831,8 +845,12 @@ footer {
       max-width: 100%;
       height: auto;
       margin-bottom: 20px;
+  }
+
+
+
 }
-}
+
 
 
 .cards-wrapper {
@@ -848,9 +866,6 @@ footer {
   
   
   
-
-
-
 
 
 
