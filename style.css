@@ -488,9 +488,10 @@ nav li a:hover{
 }
 @media (max-width: 991px) {
   .so {
-    width: 90%;
-    grid-template-columns: 1fr;
-    margin-top: 150px;
+        margin-left: -8px;
+        width: 100%;
+        grid-template-columns: 1fr;
+        margin-top: 150px;
   }
   .so .right{
     height: 270px;
@@ -509,11 +510,18 @@ nav li a:hover{
 #p2{
   width: 100%;
 }
-#h1{
+#h01{
+  margin-left: -41px;
+}
+header #h01{
   font-size: 42px;
 }
 .l-cards2{
   margin-left: 20px;
+}
+
+.so .left .content p {
+  width: 255px;
 }
 }
 
