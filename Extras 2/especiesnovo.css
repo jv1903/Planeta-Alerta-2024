@@ -247,7 +247,7 @@ nav ul {
 
 .container {
   width: 100%;
-  height: 4200px;
+  height: 3120px;
 }
 
 .boxmain {
@@ -419,9 +419,13 @@ footer {
   margin-bottom: 20px;
 }
 
-
+.support-section {
+  margin-top: 30px;
+  margin-left: 500px
+}
 #bx{
   margin-top: 20px;
+  margin-left: 420px;
 }
 
 /* responsivo footer*/
@@ -443,6 +447,10 @@ footer {
       max-width: 100%;
       height: auto;
       margin-bottom: 20px;
+}
+#bx{
+  margin-top: 20px;
+  margin-left: 0px;
 }
 }
 
