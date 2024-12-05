@@ -54,7 +54,7 @@ O projeto está Finalizado, ficou sim pedente algumas correções que gostariamo
       <a href="https://github.com/jv1903">
         <img src="img p github/joao.png" width="125px;" alt="Foto do João Vitor no Github"/><br>
         <sub>
-          <b style="font-size: 13px;"João Vitor</b>
+          <b style="font-size: 10px;"João Vitor</b>
         </sub>
       </a>
     </td>
