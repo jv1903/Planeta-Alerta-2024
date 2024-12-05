@@ -33,8 +33,11 @@ O projeto está Finalizado, ficou sim pedente algumas correções que gostariamo
   <img src="img p github/Footer responsivo.png">
   
 <br>
+
 > Agradecemos sinceramente pela sua atenção e por ter visitado nosso site. 
+
 <br>
+
 ## Criadores do Projeto 🤝
 
 <table>
