@@ -26,7 +26,7 @@ O projeto está Finalizado, ficou sim pedente algumas correções que gostariamo
 
 <br>
 
-  # Imagens Site Responsivo 
+  ## Site Responsivo 
 
   <img src="img p github/Header Responsivo.png">
   <img src="img p github/Main Responsivo.png">
