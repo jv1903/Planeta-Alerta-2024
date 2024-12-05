@@ -1,6 +1,6 @@
 # Planeta Alerta
 
-  <img src="img p github/Nav.png">
+  <img src="img p github/nav.png">
   <img src="img p github/Main.png">
   <img src="img p github/Footer.png">
   
