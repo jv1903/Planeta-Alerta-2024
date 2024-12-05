@@ -24,14 +24,15 @@ O projeto está Finalizado, ficou sim pedente algumas correções que gostariamo
 - [✔️] Ajustar o link do topico, para que ele redirecionar para o centro do site
 - [✔️] Site com  novas alterações, trazendo uma nova experiência
 <br>
-# Imagens Site Responsivo 
+## Imagens Site Responsivo 
 
   <img src="img p github/Header Responsivo.png">
   <img src="img p github/Main Responsivo.png">
   <img src="img p github/Footer responsivo.png">
   
 <br>
-
+> Agradecemos sinceramente pela sua atenção e por ter visitado nosso site. 
+<br>
 ## Criadores do Projeto 🤝
 
 <table>
